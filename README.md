@@ -1,1 +1,1 @@
-A comment component in React
+A comment component in React with props
